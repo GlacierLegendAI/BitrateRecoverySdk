@@ -44,31 +44,25 @@
 
 ### 超写实游戏效果对比
 
-[<img src="show/chao_50.png" height="250"/>](https://imgsli.com/Mzc3OTgy) | [<img src="show/chao_60.png" height="250"/>](https://imgsli.com/Mzc3OTgz) | [<img src="show/chao_70.png" height="250"/>](https://imgsli.com/Mzc3OTg0) | [<img src="show/chao_80.png" height="250"/>](https://imgsli.com/Mzc3OTg1) 
+[<img src="show/chao_50.png" height="250"/>](https://imgsli.com/Mzc3OTgy) [<img src="show/chao_80.png" height="250"/>](https://imgsli.com/Mzc3OTg1) 
 
 ---
 
 ### 端游效果对比
 
-| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|------|---------|---------|---------|---------|
-| 对比 | [<img src="show/duan_50.png" height="200"/>](https://imgsli.com/Mzc3OTk0) | [<img src="show/duan_60.png" height="200"/>](https://imgsli.com/Mzc3OTk6) | [<img src="show/duan_70.png" height="200"/>](https://imgsli.com/Mzc3OTk7) | [<img src="show/duan_80.png" height="200"/>](https://imgsli.com/Mzc3OTk9) |
+[<img src="show/duan_50.png" height="200"/>](https://imgsli.com/Mzc3OTk0) [<img src="show/duan_60.png" height="200"/>](https://imgsli.com/Mzc3OTk6) [<img src="show/duan_70.png" height="200"/>](https://imgsli.com/Mzc3OTk7) [<img src="show/duan_80.png" height="200"/>](https://imgsli.com/Mzc3OTk9) 
 
 ---
 
 ### 二次元动漫效果对比
 
-| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|------|---------|---------|---------|---------|
-| 对比 | [<img src="show/er_50.png" height="200"/>](https://imgsli.com/Mzc3OTg7) | [<img src="show/er_60.png" height="200"/>](https://imgsli.com/Mzc3OTg9) | [<img src="show/er_70.png" height="200"/>](https://imgsli.com/Mzc3OTkw) | [<img src="show/er_80.png" height="200"/>](https://imgsli.com/Mzc3OTky) |
+[<img src="show/er_50.png" height="200"/>](https://imgsli.com/Mzc3OTg7) [<img src="show/er_60.png" height="200"/>](https://imgsli.com/Mzc3OTg9) [<img src="show/er_70.png" height="200"/>](https://imgsli.com/Mzc3OTkw) [<img src="show/er_80.png" height="200"/>](https://imgsli.com/Mzc3OTky) 
 
 ---
 
 ### 手游效果对比
 
-| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|------|---------|---------|---------|---------|
-| 对比 | [<img src="show/shou_50.png" height="200"/>](https://imgsli.com/Mzc4MDAw) | [<img src="show/shou_60.png" height="200"/>](https://imgsli.com/Mzc4MDAx) | [<img src="show/shou_70.png" height="200"/>](https://imgsli.com/Mzc4MDAy) | [<img src="show/shou_80.png" height="200"/>](https://imgsli.com/Mzc4MDAz) |
+[<img src="show/shou_50.png" height="200"/>](https://imgsli.com/Mzc4MDAw) [<img src="show/shou_60.png" height="200"/>](https://imgsli.com/Mzc4MDAx) [<img src="show/shou_70.png" height="200"/>](https://imgsli.com/Mzc4MDAy) [<img src="show/shou_80.png" height="200"/>](https://imgsli.com/Mzc4MDAz)
 
 ---
 
