@@ -1,6 +1,6 @@
 # 端侧实时码率恢复SDK
 
-端侧实时码率恢复SDK (Low-End Device Compatible Bitrate Recovery SDK)是一款由南京冰河物语智能科技有限公司基于GlacierAI边缘计算框架打造的端侧实时视频码率恢复引擎。该SDK旨在帮助视频传输类应用（如直播、点播、云游戏等）实现低带宽条件下的超高清视觉效果。
+端侧实时码率恢复SDK (Low-End Device Compatible Bitrate Recovery SDK)是一款由南京冰河物语智能科技有限公司基于GlacierAI边缘计算框架打造的端侧实时视频码率恢复引擎。该SDK旨在帮助视频传输类应用（如直播、点播、云游戏、云桌面等）实现低带宽条件下的超高清视觉效果。
 
 ## 产品特点
 
