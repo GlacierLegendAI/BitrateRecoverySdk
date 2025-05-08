@@ -44,31 +44,31 @@
 
 ### 超写实游戏效果对比
 
-[<img src="show/chao_50.png" height="250"/>](https://imgsli.com/Mzc3OTgy) [<img src="show/chao_80.png" height="250"/>](https://imgsli.com/Mzc3OTg1) 
+[<img src="show/chao_50.png" width="300" height="300"/>](https://imgsli.com/Mzc3OTgy) [<img src="show/chao_80.png" width="300" height="300"/>](https://imgsli.com/Mzc3OTg1) 
 
 ---
 
 ### 端游效果对比
 
-[<img src="show/duan_50.png" height="300"/>](https://imgsli.com/Mzc3OTk0) [<img src="show/duan_80.png" height="300"/>](https://imgsli.com/Mzc3OTk9) 
+[<img src="show/duan_50.png" width="300" height="300"/>](https://imgsli.com/Mzc3OTk0) [<img src="show/duan_80.png" width="300" height="300"/>](https://imgsli.com/Mzc3OTk9) 
 
 ---
 
 ### 二次元动漫效果对比
 
-[<img src="show/er_50.png" height="300"/>](https://imgsli.com/Mzc3OTg3) [<img src="show/er_80.png" height="300"/>](https://imgsli.com/Mzc3OTky) 
+[<img src="show/er_50.png" width="300" height="300"/>](https://imgsli.com/Mzc3OTg3) [<img src="show/er_80.png" width="300" height="300"/>](https://imgsli.com/Mzc3OTky) 
 
 ---
 
 ### 手游效果对比
 
-[<img src="show/shou_50.png" height="200"/>](https://imgsli.com/Mzc4MDAw) [<img src="show/shou_80.png" height="200"/>](https://imgsli.com/Mzc4MDAz)
+[<img src="show/shou_50.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDAw) [<img src="show/shou_80.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDAz)
 
 ---
 
 ### 云桌面效果对比
 
-[<img src="show/zhuomian_70.png" height="300"/>](https://imgsli.com/Mzc4MDEz)
+[<img src="show/zhuomian_70.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDEz)
 
 ---
 
