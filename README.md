@@ -81,7 +81,7 @@
 
 
 ## 联系我们
-- 联系人：支浩宇
+- 联系人：支先生
 - 电话：13124714877
 - 邮箱：[jeremyzhi@glacier.fit](mailto:jeremyzhi@glacier.fit)
 - 地址：
