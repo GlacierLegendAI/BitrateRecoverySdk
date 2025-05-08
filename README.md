@@ -44,7 +44,7 @@
 
 ### 超写实游戏效果对比
 
-[<img src="show/chao_50.png" width="450" height="300"/>](https://imgsli.com/Mzc4MDI1) [<img src="show/chao_80.png" width="450" height="300"/>](https://imgsli.com/Mzc4MDI4) 
+[<img src="show/chao_50.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDI1) [<img src="show/chao_80.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDI4) 
 
 ---
 
