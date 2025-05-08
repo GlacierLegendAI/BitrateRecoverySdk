@@ -44,9 +44,7 @@
 
 ### 超写实游戏效果对比
 
-| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|------|---------|---------|---------|---------|
-| 对比 | [<img src="show/chao_50.png" height="200"/>](https://imgsli.com/Mzc3OTgy) | [<img src="show/chao_60.png" height="200"/>](https://imgsli.com/Mzc3OTgz) | [<img src="show/chao_70.png" height="200"/>](https://imgsli.com/Mzc3OTg0) | [<img src="show/chao_80.png" height="200"/>](https://imgsli.com/Mzc3OTg1) |
+[<img src="show/chao_50.png" height="250"/>](https://imgsli.com/Mzc3OTgy) | [<img src="show/chao_60.png" height="250"/>](https://imgsli.com/Mzc3OTgz) | [<img src="show/chao_70.png" height="250"/>](https://imgsli.com/Mzc3OTg0) | [<img src="show/chao_80.png" height="250"/>](https://imgsli.com/Mzc3OTg1) 
 
 ---
 
