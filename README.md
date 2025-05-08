@@ -43,35 +43,37 @@
 使用冰河物语SDK处理的视频流，在视觉质量评价指标（如VMAF）测试中，表现远超传统高码率传输方案，确保用户享受超高清的视频体验。
 ## 效果展示
 
+## 效果展示（滑动对比图）
+
 ### 超写实游戏效果对比
+
 | 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|----------|---------|---------|---------|---------|
-| in | ![](show/chao_50in.png) | ![](show/chao_60in.png) | ![](show/chao_70in.png) | ![](show/chao_80in.png) |
-| out | ![](show/chao_50out.png) | ![](show/chao_60out.png) | ![](show/chao_70out.png) | ![](show/chao_80out.png) |
+|------|---------|---------|---------|---------|
+| 对比 | [<img src="show/chao_50.png" height="200"/>](https://imgsli.com/Mzc3OTgy) | [<img src="show/chao_60.png" height="200"/>](https://imgsli.com/Mzc3OTgz) | [<img src="show/chao_70.png" height="200"/>](https://imgsli.com/Mzc3OTg0) | [<img src="show/chao_80.png" height="200"/>](https://imgsli.com/Mzc3OTg1) |
+
 ---
-[<img src="show/chao_50_compare.png" height="250"/>](https://imgsli.com/Mzc3OTQw)
 
 ### 端游效果对比
+
 | 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|----------|---------|---------|---------|---------|
-| in | ![](show/duan_50in.png) | ![](show/duan_60in.png) | ![](show/duan_70in.png) | ![](show/duan_80in.png) |
-| out | ![](show/duan_50out.png) | ![](show/duan_60out.png) | ![](show/duan_70out.png) | ![](show/duan_80out.png) |
+|------|---------|---------|---------|---------|
+| 对比 | [<img src="show/duan_50.png" height="200"/>](https://imgsli.com/Mzc3OTk0) | [<img src="show/duan_60.png" height="200"/>](https://imgsli.com/Mzc3OTk6) | [<img src="show/duan_70.png" height="200"/>](https://imgsli.com/Mzc3OTk7) | [<img src="show/duan_80.png" height="200"/>](https://imgsli.com/Mzc3OTk9) |
 
 ---
 
 ### 二次元动漫效果对比
+
 | 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|----------|---------|---------|---------|---------|
-| in | ![](show/er_50in.png) | ![](show/er_60in.png) | ![](show/er_70in.png) | ![](show/er_80in.png) |
-| out | ![](show/er_50out.png) | ![](show/er_60out.png) | ![](show/er_70out.png) | ![](show/er_80out.png) |
+|------|---------|---------|---------|---------|
+| 对比 | [<img src="show/er_50.png" height="200"/>](https://imgsli.com/Mzc3OTg7) | [<img src="show/er_60.png" height="200"/>](https://imgsli.com/Mzc3OTg9) | [<img src="show/er_70.png" height="200"/>](https://imgsli.com/Mzc3OTkw) | [<img src="show/er_80.png" height="200"/>](https://imgsli.com/Mzc3OTky) |
 
 ---
 
 ### 手游效果对比
+
 | 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
-|----------|---------|---------|---------|---------|
-| in | ![](show/shou_50in.png) | ![](show/shou_60in.png) | ![](show/shou_70in.png) | ![](show/shou_80in.png) |
-| out | ![](show/shou_50out.png) | ![](show/shou_60out.png) | ![](show/shou_70out.png) | ![](show/shou_80out.png) |
+|------|---------|---------|---------|---------|
+| 对比 | [<img src="show/shou_50.png" height="200"/>](https://imgsli.com/Mzc4MDAw) | [<img src="show/shou_60.png" height="200"/>](https://imgsli.com/Mzc4MDAx) | [<img src="show/shou_70.png" height="200"/>](https://imgsli.com/Mzc4MDAy) | [<img src="show/shou_80.png" height="200"/>](https://imgsli.com/Mzc4MDAz) |
 
 ---
 
