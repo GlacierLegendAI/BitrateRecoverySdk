@@ -50,19 +50,19 @@
 
 ### 端游效果对比
 
-[<img src="show/duan_50.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDMz) [<img src="show/duan_80.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDM5) 
+[<img src="show/duan_50.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDMz) [<img src="show/duan_80.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDM5) 
 
 ---
 
 ### 二次元动漫效果对比
 
-[<img src="show/er_50.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDI5) [<img src="show/er_80.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDMy) 
+[<img src="show/er_50.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDI5) [<img src="show/er_80.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDMy) 
 
 ---
 
 ### 手游效果对比
 
-[<img src="show/shou_50.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDQw) [<img src="show/shou_80.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDQz)
+[<img src="show/shou_50.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDQw) [<img src="show/shou_80.png" width="360" height="360"/>](https://imgsli.com/Mzc4MDQz)
 
 ---
 
