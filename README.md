@@ -81,10 +81,10 @@
 
 
 ## 联系我们
+[<img src="show/联系方式.png" width="180" height="180"/>]
 - 联系人：支先生
 - 电话：13124714877
 - 邮箱：[jeremyzhi@glacier.fit](mailto:jeremyzhi@glacier.fit)
 - 地址：
   - 江苏省南京市鼓楼区中央路201号金茂广场1806室
   - 北京市朝阳区星城国际大厦C座1010室
-
