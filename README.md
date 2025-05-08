@@ -56,13 +56,19 @@
 
 ### 二次元动漫效果对比
 
-[<img src="show/er_50.png" height="300"/>](https://imgsli.com/Mzc3OTg7) [<img src="show/er_80.png" height="300"/>](https://imgsli.com/Mzc3OTky) 
+[<img src="show/er_50.png" height="300"/>](https://imgsli.com/Mzc3OTg3) [<img src="show/er_80.png" height="300"/>](https://imgsli.com/Mzc3OTky) 
 
 ---
 
 ### 手游效果对比
 
 [<img src="show/shou_50.png" height="200"/>](https://imgsli.com/Mzc4MDAw) [<img src="show/shou_80.png" height="200"/>](https://imgsli.com/Mzc4MDAz)
+
+---
+
+### 云桌面效果对比
+
+[<img src="show/zhuomian_70.png" height="300"/>](https://imgsli.com/Mzc4MDEz)
 
 ---
 
