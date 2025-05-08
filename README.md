@@ -68,7 +68,7 @@
 
 ### 云桌面效果对比
 
-[<img src="show/zhuomian_70.png" width="300" height="300"/>](https://imgsli.com/Mzc4MDEz)
+[<img src="show/zhuomian_70.png" width="400" height="300"/>](https://imgsli.com/Mzc4MDEz)
 
 ---
 
