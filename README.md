@@ -49,7 +49,7 @@
 | in | ![](show/chao_50in.png) | ![](show/chao_60in.png) | ![](show/chao_70in.png) | ![](show/chao_80in.png) |
 | out | ![](show/chao_50out.png) | ![](show/chao_60out.png) | ![](show/chao_70out.png) | ![](show/chao_80out.png) |
 ---
-[<img src="show/chao_50compare.png" height="250"/>](https://imgsli.com/Mzc3OTM5)
+[<img src="show/chao_50_compare.png" height="250"/>](https://imgsli.com/Mzc3OTQw)
 
 ### 端游效果对比
 | 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
