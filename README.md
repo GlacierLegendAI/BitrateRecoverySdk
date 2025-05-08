@@ -50,13 +50,13 @@
 
 ### 端游效果对比
 
-[<img src="show/duan_50.png" height="200"/>](https://imgsli.com/Mzc3OTk0) [<img src="show/duan_80.png" height="200"/>](https://imgsli.com/Mzc3OTk9) 
+[<img src="show/duan_50.png" height="300"/>](https://imgsli.com/Mzc3OTk0) [<img src="show/duan_80.png" height="300"/>](https://imgsli.com/Mzc3OTk9) 
 
 ---
 
 ### 二次元动漫效果对比
 
-[<img src="show/er_50.png" height="200"/>](https://imgsli.com/Mzc3OTg7) [<img src="show/er_80.png" height="200"/>](https://imgsli.com/Mzc3OTky) 
+[<img src="show/er_50.png" height="300"/>](https://imgsli.com/Mzc3OTg7) [<img src="show/er_80.png" height="300"/>](https://imgsli.com/Mzc3OTky) 
 
 ---
 
