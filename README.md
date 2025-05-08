@@ -81,7 +81,7 @@
 
 
 ## 联系我们
-!<img src="show/联系方式.png" width="180" height="180"/>
+<img src="show/联系方式.png" width="180" height="180"/>
 - 联系人：支先生
 - 电话：13124714877
 - 邮箱：[jeremyzhi@glacier.fit](mailto:jeremyzhi@glacier.fit)
