@@ -43,7 +43,7 @@
 ## 效果展示
 
 ### 超写实游戏效果对比
-| 图片类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
+| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
 |----------|---------|---------|---------|---------|
 | in | ![](show/chao_50in.png) | ![](show/chao_60in.png) | ![](show/chao_70in.png) | ![](show/chao_80in.png) |
 | out | ![](show/chao_50out.png) | ![](show/chao_60out.png) | ![](show/chao_70out.png) | ![](show/chao_80out.png) |
@@ -51,7 +51,7 @@
 ---
 
 ### 端游效果对比
-| 图片类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
+| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
 |----------|---------|---------|---------|---------|
 | in | ![](show/duan_50in.png) | ![](show/duan_60in.png) | ![](show/duan_70in.png) | ![](show/duan_80in.png) |
 | out | ![](show/duan_50out.png) | ![](show/duan_60out.png) | ![](show/duan_70out.png) | ![](show/duan_80out.png) |
@@ -59,7 +59,7 @@
 ---
 
 ### 二次元动漫效果对比
-| 图片类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
+| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
 |----------|---------|---------|---------|---------|
 | in | ![](show/er_50in.png) | ![](show/er_60in.png) | ![](show/er_70in.png) | ![](show/er_80in.png) |
 | out | ![](show/er_50out.png) | ![](show/er_60out.png) | ![](show/er_70out.png) | ![](show/er_80out.png) |
@@ -67,7 +67,7 @@
 ---
 
 ### 手游效果对比
-| 图片类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
+| 类型 | 50%码率 | 60%码率 | 70%码率 | 80%码率 |
 |----------|---------|---------|---------|---------|
 | in | ![](show/shou_50in.png) | ![](show/shou_60in.png) | ![](show/shou_70in.png) | ![](show/shou_80in.png) |
 | out | ![](show/shou_50out.png) | ![](show/shou_60out.png) | ![](show/shou_70out.png) | ![](show/shou_80out.png) |
@@ -78,7 +78,7 @@
 
 通过VMAF智能压缩技术，在保证视觉质量的前提下实现30%-40%的压缩率提升，有效降低存储成本。
 
-![码率压缩效果对比](show/码率压缩效果对图.png)
+![码率压缩效果对比](show/码率压缩效果柱状图.png)
 
 
 ## 联系我们
